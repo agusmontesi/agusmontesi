@@ -1,3 +1,5 @@
+Hola! Mi nombre es Agustin Montesi 👨‍💻
+
 Soy Full Stack Developer (Me inclino hacia el Front End) en constante aprendizaje. Me gusta mucho las distintas expresiones del arte y creo que el el diseño web es una de estas.
 
 Me gusta mucho aprender cosas nuevas y la programación me mostro un mundo enorme de cosas por descubrir. No cuento con muchos proyectos todavía pero es uno de mis objetivos ir construyendo este espacio de una manera interesante donde pueda mostrar mi trabajo
