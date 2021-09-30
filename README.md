@@ -1,20 +1,17 @@
-<h1>Hola! Mi nombre es Agustin Montesi 👨‍💻</h1>
+<h1 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Soy Full Stack Developer (Me inclino hacia el Front End) en constante aprendizaje. Me gusta mucho las distintas expresiones del arte y creo que el el diseño web es una de estas.
+<p align='center'>Hope u are having a good day </br> I'm Agustin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909430.png" width="13"/> <b>Bahia blanca, Argentina</b></p>
 
-Me gusta mucho aprender cosas nuevas y la programación me mostro un mundo enorme de cosas por descubrir. No cuento con muchos proyectos todavía pero es uno de mis objetivos ir construyendo este espacio de una manera interesante donde pueda mostrar mi trabajo
+🔭 **I am currently looking for new opportunities.**
 
-
-🔭 **Actualmente estoy en busca de nuevas oportunidades.**
-
-    🌱 Actualmente estoy aprendiendo a utilizar Graphql y Typescript
-    👯 Buscando colaborar en un proyecto de Desarrollo Web para desplegar mis aptitudes
-    ⚡ Datos Curiosos: Me gusta andar en bici y tocar la guitarra
+    🌱 Currently I am learning to use MongoDB and Typecript
+    👯 Looking to collaborate in a Web Development project to display my skills
+    ⚡ Fun Facts: I like to ride my bike and play the guitar
     📫 Email => agustmontesi@gmail.com
 
-⚡ Tecnologías 
+⚡ Technologies 
 
-Aquí algunas cosas que he aprendido a lo largo de este camino de aprendizaje:
+Here are some things that I have learned along this learning path:
 
 
 ![React](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642) ![Redux](https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465) 
@@ -30,6 +27,26 @@ Aquí algunas cosas que he aprendido a lo largo de este camino de aprendizaje:
 ![sass](https://camo.githubusercontent.com/8849f369ac031cc842a4ab4248c7f7db6a4b593cad1f2d1c01d3aeb6f0f8dca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465)
 ![Postresql](https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
 
-📫 Contáctame!
+
+<h1>Projects</h1>
+<h2>Flight App</h2>
+<a href="https://github.com/agusmontesi/TurismoCity">
+  <img align="center" style="margin:1rem 0.5rem" src="https://res.cloudinary.com/drvfehzja/image/upload/v1633034095/Firefox_Screenshot_2021-09-30T20-27-56.959Z_tj21zn.png" />
+</a>
+
+<br>
+<h2>Countries finder App</h2>
+<a href="https://github.com/agusmontesi/countriesApp">
+  <img align="center" style="margin:1rem 0.5rem" src="https://res.cloudinary.com/drvfehzja/image/upload/v1633035831/Firefox_Screenshot_2021-09-30T21-03-37.277Z_ncajfh.png" />
+</a>
+
+
+
+
+
+
+ <h2>📫 Contact me!</h2>
 
 [Linkedin](https://www.linkedin.com/in/agustinmontesi/)
+
+
