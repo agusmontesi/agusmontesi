@@ -1,6 +1,6 @@
 <h1 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align='center'>Hope u are having a good day </br> I'm Agustin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909430.png" width="13"/> <b>Bahia blanca, Argentina</b></p>
+<p align='center'>Hope u are having a good day </br> I'm Agustin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909430.png" width="13"/> <b>Buenos Aires, Argentina</b></p>
 
 🔭 **I am currently looking for new opportunities.**
 
